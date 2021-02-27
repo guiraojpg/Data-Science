@@ -6,5 +6,5 @@
 
 ## Projetos:
 Veja os tutoriais publicados:
-
-* **Como...**
+* **Analisando dados do AirBnB**
+* **Como criar uma WordCloud em Python**
